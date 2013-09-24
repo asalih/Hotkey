@@ -1,0 +1,16 @@
+c:\users\asalih\documents\visual studio 2010\Projects\HotKey\HotKey\bin\Debug\HotKey.exe
+c:\users\asalih\documents\visual studio 2010\Projects\HotKey\HotKey\bin\Debug\HotKey.pdb
+c:\users\asalih\documents\visual studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\asalih\documents\visual studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\HotKey.Properties.Resources.resources
+c:\users\asalih\documents\visual studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\asalih\documents\visual studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\asalih\documents\visual studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\HotKey.exe
+c:\users\asalih\documents\visual studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\HotKey.pdb
+c:\users\asalih\documents\visual studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\HotKey.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\HotKey.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\HotKey.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HotKey\HotKey\bin\Debug\HotKey.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HotKey\HotKey\bin\Debug\HotKey.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\HotKey.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\HotKey.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HotKey\HotKey\obj\x86\Debug\HotKey.csproj.GenerateResource.Cache
